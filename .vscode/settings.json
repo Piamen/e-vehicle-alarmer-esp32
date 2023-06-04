@@ -1,0 +1,8 @@
+{
+    "idf.portWin": "COM7",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_hidd_prf_api.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
